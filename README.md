@@ -339,7 +339,7 @@ cp .env.example .env
 
 **Vanshita Shivankar**
 
-- GitHub: [github.com/your-username](https://github.com/vanshita-html)
+- GitHub: [github.com/vanshita-html](https://github.com/vanshita-html)
 
 ---
 
